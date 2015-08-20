@@ -1,0 +1,2 @@
+# Asteros
+Python shooting game

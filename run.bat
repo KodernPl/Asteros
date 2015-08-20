@@ -1,0 +1,1 @@
+build_exe asteros.py -c --bundle-files 1
